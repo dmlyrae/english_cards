@@ -4,12 +4,12 @@
       "translate": "застенчивый человек",
       "examples": [
         {
-            "sentence": "",
-            "translate": ""
+            "sentence": "Growing up as a shy person, he had to overcome many challenges to achieve his goals",
+            "translate": "Выросший застенчивым человеком, ему пришлось преодолеть множество испытаний, чтобы достичь своих целей"
         },
         {
-            "sentence": "",
-            "translate": ""
+            "sentence": "As a shy person, she preferred to spend his free time alone, indulging in his hobbies",
+            "translate": "Будучи застенчивым человеком, она предпочитала проводить свободное время в одиночестве, предаваясь своим хобби"
         }
       ]
     },
@@ -110,5 +110,38 @@
             "translate": ""
         }
       ]
+    },
+    {
+    "source": "obvious",
+    "translate": "ясный, очевидный, понятный",
+            "examples": [
+            {
+                "sentence": "It's obvious that he is drunk.",
+                "translate": "Ясно, что он пьян."
+            }
+        ]
+    },
+    {
+    "source": "depend",
+    "translate": "зависимость",
+    "examples": [
+        {
+            "sentence": "Any dependence binds a person.",
+            "translate": "Любая зависимость связывает человека."
+        }
+    ],
+    "link": "https://wooordhunt.ru/word/depend"
+    },
+    {
+    "source": "achieve",
+    "translate": "достигать, добиваться",
+    "link": "https://wooordhunt.ru/word/achieve",
+    "examples": [
+        {
+            "sentence": "I didn't achieve the summit of Avachinsky volcano",
+            "translate": "Я не одолел вершину Авачинского вулкана"
+        }
+    ]
     }
 ]
+
