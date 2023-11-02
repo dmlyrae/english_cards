@@ -1,0 +1,114 @@
+[
+    {
+      "source": "shy person",
+      "translate": "застенчивый человек",
+      "examples": [
+        {
+            "sentence": "",
+            "translate": ""
+        },
+        {
+            "sentence": "",
+            "translate": ""
+        }
+      ]
+    },
+    {
+    "source": "eternity",
+    "translate": "вечность",
+      "examples": [
+        {
+            "sentence": "Love lasts for eternity",
+            "translate": ""
+        },
+        {
+            "sentence": "The concept of eternity is difficult to comprehend",
+            "translate": ""
+        }
+      ]
+    },
+    {
+   "source": "meadow",
+   "translate": "луг",
+      "examples": [
+        {
+            "sentence": "We had a picnic in the meadow",
+            "translate": ""
+        },
+        {
+            "sentence": "The meadow was filled with wildflowers",
+            "translate": ""
+        }
+      ]
+    },
+    {
+   "source": "chalice",
+   "translate": "чаша",
+         "examples": [
+        {
+            "sentence": "The priest held up the chalice during the ceremony",
+            "translate": ""
+        },
+        {
+            "sentence": "The chalice was made of gold",
+            "translate": ""
+        }
+      ]
+    },
+    {
+   "source": "hush",
+   "translate": "замолчать",
+         "examples": [
+        {
+            "sentence": "Hush! The baby is sleeping",
+            "translate": ""
+        },
+        {
+            "sentence": "She hushed the crowd with a wave of her hand",
+            "translate": ""
+        }
+      ]
+    },
+    {
+   "source": "be decisive",
+   "translate": "быть решительным",
+         "examples": [
+        {
+            "sentence": "You need to be decisive in making important decisions",
+            "translate": ""
+        },
+        {
+            "sentence": "She's known for her ability to be decisive",
+            "translate": ""
+        }
+      ]
+    },
+    {
+   "source": "pumpkin",
+   "translate": "тыква",
+         "examples": [
+        {
+            "sentence": "We carved pumpkins for Halloween",
+            "translate": ""
+        },
+        {
+            "sentence": "Pumpkin pie is a popular dessert in the fall",
+            "translate": ""
+        }
+      ]
+    },
+    {
+  "source": "demure",
+   "translate": "скромный",
+         "examples": [
+        {
+            "sentence": "She was dressed in a demure white dress",
+            "translate": ""
+        },
+        {
+            "sentence": "His demure demeanor made him appear polite and reserved",
+            "translate": ""
+        }
+      ]
+    }
+]
