@@ -142,6 +142,28 @@
             "translate": "Я не одолел вершину Авачинского вулкана"
         }
     ]
+    },
+    {
+    "source": "available",
+    "translate": "доступный, имеющийся",
+    "link": "https://wooordhunt.ru/word/availabe",
+    "examples": [
+        {
+            "sentence": "We spent every available hour upon the ice",
+            "translate": "Всё свободное время мы проводили на льду"
+        }
+    ]
+    },
+    {
+    "source": "succeed",
+    "translate": "преуспевать, иметь успех",
+    "link": "https://wooordhunt.ru/word/succeed",
+    "examples": [
+        {
+            "sentence": "He is apt to succeed.",
+            "translate": "Он, вероятно, будет иметь успех."
+        }
+    ]
     }
 ]
 
