@@ -1,5 +1,54 @@
 [
     {
+      "source": "arrogane",
+      "translate": "высокомерие, заносчивость",
+      "tags": ["november", "common"],
+      "examples": [
+        {
+            "sentence": "His arrogance was hardly pardonable.",
+            "translate": "Его высокомерие трудно было извинить."
+        },
+        {
+            "sentence": "I couldn't believe the arrogance of the man!",
+            "translate": "Ну и самомнение у человека!"
+        }
+      ],
+      "link": "https://wooordhunt.ru/word/arrogance"
+    },
+    {
+      "source": "yield",
+      "translate": "1. уступать, отдавать. 2. урожай, доход.",
+      "tags": ["november", "common"],
+      "note": "yied up - сдаваться, уступать, поддаваться",
+      "examples": [
+        {
+            "sentence": "The seeds yield a rich oil",
+            "translate": "Семена дают густое масло"
+        },
+        {
+            "sentence": "These investments should yield a reasonable return",
+            "translate": "Эти инвестиции должны принести неплохую прибыль"
+        }
+      ],
+      "link": "https://wooordhunt.ru/word/yield"
+    },
+    {
+      "source": "attempt",
+      "translate": "попытка, покушение, опыт, проба",
+      "tags": ["november", "common", "popular"],
+      "examples": [
+        {
+            "sentence": "to attempt the impossible",
+            "translate": "пытаться делать невозможное"
+        },
+        {
+            "sentence": "It was a poor attempt at a joke",
+            "translate": "Это была жалкая попытка пошутить."
+        }
+      ],
+      "link": "https://wooordhunt.ru/attempt"
+    },
+    {
       "source": "shy person",
       "translate": "застенчивый человек",
       "examples": [
@@ -15,6 +64,7 @@
     },
     {
     "source": "eternity",
+    "tags": ["november", "common", "popular"],
     "translate": "вечность",
       "examples": [
         {
