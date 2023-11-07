@@ -1,5 +1,53 @@
 [
     {
+      "source": "belong",
+      "translate": "принадлежать, быть связанным, находиться в/на/к",
+      "tags": ["november", "common", "popular"],
+      "examples": [
+        {
+            "sentence": "We belong together",
+            "translate": "Мы принадлежим друг другу"
+        },
+        {
+            "sentence": "Where do these books belong?",
+            "translate": "Где этим книгам положено быть?"
+        }
+      ],
+      "link": "https://wooordhunt.ru/belong"
+    },
+    {
+      "source": "encourage",
+      "translate": "поощрять, поддерживать, ободрять",
+      "tags": ["november", "common", "popular"],
+      "examples": [
+        {
+            "sentence": "Encourage each other with kind words.",
+            "translate": "Воодушевляйте друг друга добрыми словами."
+        },
+        {
+            "sentence": "They encouraged us in our work.",
+            "translate": "Они поддерживали нас в работе."
+        }
+      ],
+      "link": "https://wooordhunt.ru/encourage"
+    },
+    {
+      "source": "proper",
+      "translate": "правильный, надлежащий, должный",
+      "tags": ["november", "common", "popular"],
+      "examples": [
+        {
+            "sentence": "These children need a proper home life",
+            "translate": "Этим детям нужна нормальная семейная жизнь"
+        },
+        {
+            "sentence": "She was very formal and proper",
+            "translate": "She was very formal and proper"
+        }
+      ],
+      "link": "https://wooordhunt.ru/proper"
+    },
+    {
       "source": "arrogane",
       "translate": "высокомерие, заносчивость",
       "tags": ["november", "common"],
