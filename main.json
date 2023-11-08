@@ -1,4 +1,36 @@
 [
+      {
+      "source": "care",
+      "translate": "уход, забота, внимание",
+      "tags": ["november", "common", "popular"],
+      "examples": [
+        {
+            "sentence": "I don't care",
+            "translate": "Мне наплевать"
+        },
+        {
+            "sentence": "She was taken into care as a baby",
+            "translate": "Её взяли на воспитание в младенческом возрасте"
+        }
+      ],
+      "link": "https://wooordhunt.ru/care"
+    },
+    {
+      "source": "apparently",
+      "translate": "видимо, по-видимому, очевидно",
+      "tags": ["november", "common", "popular"],
+      "examples": [
+        {
+            "sentence": "Apparently the jewellery wasn't insured.",
+            "translate": "По-видимому, драгоценности не были застрахованы."
+        },
+        {
+            "sentence": "Apparently there are bats in the inmost caves",
+            "translate": "Видимо, в самой глубине пещер есть летучие мыши"
+        }
+      ],
+      "link": "https://wooordhunt.ru/apparently"
+    },
     {
       "source": "belong",
       "translate": "принадлежать, быть связанным, находиться в/на/к",
