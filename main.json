@@ -1,5 +1,45 @@
 [
       {
+      "source": "harmful",
+      "translate": "вредный, пагубный",
+      "tags": ["november", "common"],
+      "examples": [
+        {
+            "sentence": "Too much sun is harmful to the skin",
+            "translate": "Слишком много солнца — вредно для кожи"
+        }
+      ],
+      "link": "https://wooordhunt.ru/harmful"
+    },
+    {
+      "source": "redundant",
+      "translate": "излишний, чрезмерный",
+      "tags": ["november", "common"],
+      "examples": [
+        {
+            "sentence": "Avoid redundant expressions in your writing",
+            "translate": "Избегайте повторения(избыточности) выражений в письменной речи."
+        }
+      ],
+      "link": "https://wooordhunt.ru/redundant"
+    },
+    {
+      "source": "occur",
+      "translate": "присходить, случаться",
+      "tags": ["november", "common", "popular"],
+      "examples": [
+        {
+            "sentence": "Most infections occur in childhood",
+            "translate": "В большинстве случаев инфицирование происходит в детстве"
+        },
+        {
+            "sentence": "The explosion occurred at 5.30 a.m.",
+            "translate": "Взрыв произошел в пять-тридцать утра"
+        }
+      ],
+      "link": "https://wooordhunt.ru/occur"
+    },
+      {
       "source": "care",
       "translate": "уход, забота, внимание",
       "tags": ["november", "common", "popular"],
