@@ -1,5 +1,35 @@
 [
       {
+      "source": "outcome",
+      "translate": "результат, развязка",
+      "tags": ["november", "common"],
+      "examples": [
+        {
+            "sentence": "There are two possible outcomes.",
+            "translate": "Возможны два исхода."
+        }, {
+          "sentence": "They awaited news of the outcome.", 
+          "translate": "Она ждала новостей от том, как всё закончится."
+        }
+      ],
+      "link": "https://wooordhunt.ru/outcome"
+    },
+      {
+      "source": "issue",
+      "translate": "проблема(задача) и издание(выпуск)",
+      "tags": ["november", "common", "popular"],
+      "examples": [
+        {
+            "sentence": "This is a life-and-death issue.",
+            "translate": "Это вопрос жизни и смерти."
+        }, {
+          "sentence": "She found an old issue of the magazine.", 
+          "translate": "Она нашла старый номер этого журнала."
+        }
+      ],
+      "link": "https://wooordhunt.ru/issue"
+    },
+      {
       "source": "harmful",
       "translate": "вредный, пагубный",
       "tags": ["november", "common"],
