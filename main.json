@@ -1,4 +1,146 @@
 [
+  {
+      "source": "among",
+      "translate": "(среди) среди, посреди",
+      "tags": ["november", "common"],
+      "examples": [
+        {
+            "sentence": "He was among the first to arrive at the party.",
+            "translate": "Он был одним из первых, кто прибыл на вечеринку."
+        },
+        {
+            "sentence": "Among the stars",
+            "translate": "Посреди звёзд"
+        }
+      ],
+      "link": "https://wooordhunt.ru/among"
+  },
+  {
+      "source": "complimentary",
+      "translate": "бесплатный, комплиментарный",
+      "tags": ["november", "common"],
+      "examples": [
+        {
+            "sentence": "The hotel offers complimentary breakfast for all guests.",
+            "translate": "Отель предлагает бесплатный завтрак для всех гостей."
+        }, {
+          "sentence": "She received a complimentary gift from the company.", 
+          "translate": "Она получила комплиментарный подарок от компании."
+        }
+      ],
+      "link": "https://wooordhunt.ru/complimentary"
+    },
+
+{
+      "source": "murmur",
+      "translate": "шепот, шорох",
+      "tags": ["november", "common"],
+      "examples": [
+        {
+            "sentence": "The murmur of the wind could be heard through the trees.",
+            "translate": "Шорох ветра был слышен сквозь деревья."
+        }, {
+          "sentence": "She spoke in a soft murmur.", 
+          "translate": "Она говорила тихим шепотом."
+        }
+      ],
+      "link": "https://wooordhunt.ru/murmur"
+    },
+
+{
+      "source": "allow",
+      "translate": "разрешать, позволять",
+      "tags": ["november", "common"],
+      "examples": [
+        {
+            "sentence": "The teacher will allow extra time for the exam.",
+            "translate": "Учитель разрешит дополнительное время на экзамене."
+        }, {
+          "sentence": "Please allow me to explain.", 
+          "translate": "Позвольте мне объяснить."
+        }
+      ],
+      "link": "https://wooordhunt.ru/allow"
+    },
+
+{
+      "source": "shovel",
+      "translate": "лопата",
+      "tags": ["november", "common"],
+      "examples": [
+        {
+            "sentence": "He used a shovel to dig a hole in the ground.",
+            "translate": "Он использовал лопату, чтобы вырыть яму в земле."
+        }, {
+          "sentence": "The shovel was leaning against the shed.", 
+          "translate": "Лопата была опирается на сарай."
+        }
+      ],
+      "link": "https://wooordhunt.ru/shovel"
+    },
+
+{
+      "source": "passion",
+      "translate": "страсть, пыл, влечение",
+      "tags": ["november", "common"],
+      "examples": [
+        {
+            "sentence": "She spoke about her passion for music.",
+            "translate": "Она говорила о своей страсти к музыке."
+        }, {
+          "sentence": "His passion for cooking is evident in every dish he prepares.", 
+          "translate": "Его страсть к кулинарии проявляется в каждом блюде, которое он готовит."
+        }
+      ],
+      "link": "https://wooordhunt.ru/passion"
+    },
+
+{
+      "source": "branch",
+      "translate": "ветвь, отрасль, филиал",
+      "tags": ["november", "common"],
+      "examples": [
+        {
+            "sentence": "The tree had many branches.",
+            "translate": "У дерева было много ветвей."
+        }, {
+          "sentence": "The company opened a new branch in the city.", 
+          "translate": "Компания открыла новый филиал в городе."
+        }
+      ],
+      "link": "https://wooordhunt.ru/branch"
+    },
+
+{
+      "source": "case",
+      "translate": "случай, дело, чехол",
+      "tags": ["november", "common"],
+      "examples": [
+        {
+            "sentence": "This is a special case.",
+            "translate": "Это особый случай."
+        }, {
+          "sentence": "She bought a new phone case.", 
+          "translate": "Она купила новый чехол для телефона."
+        }
+      ],
+      "link": "https://wooordhunt.ru/case"
+    },
+    {
+      "source": "outcome",
+      "translate": "результат, развязка",
+      "tags": ["november", "common"],
+      "examples": [
+        {
+            "sentence": "There are two possible outcomes.",
+            "translate": "Возможны два исхода."
+        }, {
+          "sentence": "They awaited news of the outcome.", 
+          "translate": "Она ждала новостей от том, как всё закончится."
+        }
+      ],
+      "link": "https://wooordhunt.ru/outcome"
+    },
       {
       "source": "outcome",
       "translate": "результат, развязка",
