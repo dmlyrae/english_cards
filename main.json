@@ -1,5 +1,95 @@
 [
   {
+      "source": "heritage",
+      "translate": "наследие",
+      "tags": ["history", "culture"],
+      "examples": [
+        {
+            "sentence": "This building is a part of our heritage.",
+            "translate": "Это здание является частью нашего наследия."
+        }, {
+          "sentence": "He comes from a family with a rich heritage.", 
+          "translate": "Он из семьи с богатым наследием."
+        }
+      ],
+      "link": "https://wooordhunt.ru/heritage"
+    },
+    {
+      "source": "surround",
+      "translate": "окружать",
+      "tags": ["nature", "geography"],
+      "examples": [
+        {
+            "sentence": "The mountains surround the valley.",
+            "translate": "Горы окружают долину."
+        }, {
+          "sentence": "The city is surrounded by water.", 
+          "translate": "Город окружен водой."
+        }
+      ],
+      "link": "https://wooordhunt.ru/surround"
+    },
+    {
+      "source": "meal",
+      "translate": "еда, прием пищи",
+      "tags": ["food", "nutrition"],
+      "examples": [
+        {
+            "sentence": "I usually have three meals a day.",
+            "translate": "Обычно я ем три раза в день."
+        }, {
+          "sentence": "What's for the next meal?", 
+          "translate": "Что будет на следующей еде?"
+        }
+      ],
+      "link": "https://wooordhunt.ru/meal"
+    },
+    {
+      "source": "pursue",
+      "translate": "преследовать, следовать",
+      "tags": ["action", "career"],
+      "examples": [
+        {
+            "sentence": "The police pursued the suspect on foot.",
+            "translate": "Полиция преследовала подозреваемого пешком."
+        }, {
+          "sentence": "She decided to pursue a career in medicine.", 
+          "translate": "Она решила преследовать карьеру в медицине."
+        }
+      ],
+      "link": "https://wooordhunt.ru/pursue"
+    },
+    {
+      "source": "sure",
+      "translate": "уверенный, убежденный",
+      "tags": ["confidence", "communication"],
+      "examples": [
+        {
+            "sentence": "I'm not sure if I can do it.",
+            "translate": "Я не уверен, что смогу это сделать."
+        }, {
+          "sentence": "She seemed sure of herself.", 
+          "translate": "Она казалась уверенной в себе."
+        }
+      ],
+      "link": "https://wooordhunt.ru/sure"
+    },
+    {
+      "source": "probably",
+      "translate": "вероятно, возможно",
+      "tags": ["probability", "uncertainty"],
+      "examples": [
+        {
+            "sentence": "It will probably rain tomorrow.",
+            "translate": "Завтра, вероятно, будет дождь."
+        }, {
+          "sentence": "He's probably at home.", 
+          "translate": "Он, вероятно, дома."
+        }
+      ],
+      "link": "https://wooordhunt.ru/probably"
+    },
+  {
       "source": "among",
       "translate": "(среди) среди, посреди",
       "tags": ["november", "common"],
