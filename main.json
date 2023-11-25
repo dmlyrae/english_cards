@@ -2,7 +2,7 @@
 {
       "source": "crime",
       "translate": "преступление",
-      "tags": ["november", "common"],
+      "tags": ["november", "crime"],
       "examples": [
         {
             "sentence": "He was arrested for committing a crime.",
@@ -18,7 +18,7 @@
 {
       "source": "breach",
       "translate": "нарушение",
-      "tags": ["november", "common"],
+      "tags": ["november", "crime"],
       "examples": [
         {
             "sentence": "The company was fined for breach of contract.",
@@ -34,7 +34,7 @@
 {
       "source": "delinquency",
       "translate": "правонарушение",
-      "tags": ["november", "common"],
+      "tags": ["november", "crime"],
       "examples": [
         {
             "sentence": "Juvenile delinquency is a serious problem in some areas.",
@@ -50,7 +50,7 @@
 {
       "source": "law-breaking",
       "translate": "нарушение закона",
-      "tags": ["november", "common"],
+      "tags": ["november", "crime"],
       "examples": [
         {
             "sentence": "Law-breaking can have serious consequences.",
@@ -66,7 +66,7 @@
 {
       "source": "misdeed",
       "translate": "проступок",
-      "tags": ["november", "common"],
+      "tags": ["november", "crime"],
       "examples": [
         {
             "sentence": "He regretted his misdeeds and apologized.",
@@ -81,7 +81,7 @@
 {
       "source": "offence",
       "translate": "обидное поведение, правонарушение",
-      "tags": ["november", "common"],
+      "tags": ["november", "crime"],
       "examples": [
         {
             "sentence": "He took offence at her words.",
@@ -97,7 +97,7 @@
 {
       "source": "wrongdoing",
       "translate": "проступок, неправильное поведение",
-      "tags": ["november", "common"],
+      "tags": ["november", "crime"],
       "examples": [
         {
             "sentence": "He was accused of wrongdoing.",
@@ -113,7 +113,7 @@
 {
       "source": "misdemeanour",
       "translate": "проступок, небольшое правонарушение",
-      "tags": ["november", "common"],
+      "tags": ["november", "crime"],
       "examples": [
         {
             "sentence": "He was charged with a misdemeanor.",
@@ -129,7 +129,7 @@
 {
       "source": "felony",
       "translate": "тяжкое преступление",
-      "tags": ["november", "common"],
+      "tags": ["november", "crime"],
       "examples": [
         {
             "sentence": "He was charged with a felony.",
@@ -145,7 +145,7 @@
 {
       "source": "treason",
       "translate": "измена, предательство",
-      "tags": ["november", "common"],
+      "tags": ["november", "crime"],
       "examples": [
         {
             "sentence": "He was accused of treason.",
