@@ -1,4 +1,162 @@
 [
+{
+      "source": "crime",
+      "translate": "преступление",
+      "tags": ["november", "common"],
+      "examples": [
+        {
+            "sentence": "He was arrested for committing a crime.",
+            "translate": "Он был арестован за совершение преступления."
+        }, {
+          "sentence": "The crime rate in this area has increased.",
+          "translate": "Уровень преступности в этом районе увеличился."
+        }
+      ],
+      "link": "https://wooordhunt.ru/crime"
+    },
+
+{
+      "source": "breach",
+      "translate": "нарушение",
+      "tags": ["november", "common"],
+      "examples": [
+        {
+            "sentence": "The company was fined for breach of contract.",
+            "translate": "Компания была оштрафована за нарушение контракта."
+        }, {
+          "sentence": "He was accused of breaching the peace.",
+          "translate": "Его обвинили в нарушении общественного порядка."
+        }
+      ],
+      "link": "https://wooordhunt.ru/breach"
+    },
+
+{
+      "source": "delinquency",
+      "translate": "правонарушение",
+      "tags": ["november", "common"],
+      "examples": [
+        {
+            "sentence": "Juvenile delinquency is a serious problem in some areas.",
+            "translate": "Проблема правонарушений несовершеннолетних является серьезной в некоторых районах."
+        }, {
+          "sentence": "He was charged with delinquency.",
+          "translate": "Его обвинили в совершении правонарушения."
+        }
+      ],
+      "link": "https://wooordhunt.ru/delinquency"
+    },
+
+{
+      "source": "law-breaking",
+      "translate": "нарушение закона",
+      "tags": ["november", "common"],
+      "examples": [
+        {
+            "sentence": "Law-breaking can have serious consequences.",
+            "translate": "Нарушение закона может иметь серьезные последствия."
+        }, {
+          "sentence": "He was caught law-breaking and was fined.",
+          "translate": "Его поймали при нарушении закона и оштрафовали."
+        }
+      ],
+      "link": "https://wooordhunt.ru/law-breaking"
+    },
+
+{
+      "source": "misdeed",
+      "translate": "проступок",
+      "tags": ["november", "common"],
+      "examples": [
+        {
+            "sentence": "He regretted his misdeeds and apologized.",
+            "translate": "Он сожалел о своих проступках и извинился."
+        }, {
+          "sentence": "She was punished for her misdeeds.",
+          "translate": "Она была наказана за свои проступки."
+        }
+      ],
+      "link": "https://wooordhunt.ru/misdeed"
+    },
+{
+      "source": "offence",
+      "translate": "обидное поведение, правонарушение",
+      "tags": ["november", "common"],
+      "examples": [
+        {
+            "sentence": "He took offence at her words.",
+            "translate": "Он обиделся на ее слова."
+        }, {
+          "sentence": "She was charged with a minor offence.",
+          "translate": "Ее обвинили в совершении незначительного правонарушения."
+        }
+      ],
+      "link": "https://wooordhunt.ru/offence"
+    },
+
+{
+      "source": "wrongdoing",
+      "translate": "проступок, неправильное поведение",
+      "tags": ["november", "common"],
+      "examples": [
+        {
+            "sentence": "He was accused of wrongdoing.",
+            "translate": "Его обвинили в проступке."
+        }, {
+          "sentence": "She apologized for her wrongdoing.",
+          "translate": "Она извинилась за свои неправильные поступки."
+        }
+      ],
+      "link": "https://wooordhunt.ru/wrongdoing"
+    },
+
+{
+      "source": "misdemeanour",
+      "translate": "проступок, небольшое правонарушение",
+      "tags": ["november", "common"],
+      "examples": [
+        {
+            "sentence": "He was charged with a misdemeanor.",
+            "translate": "Его обвинили в совершении небольшого правонарушения."
+        }, {
+          "sentence": "She was fined for her misdemeanor.",
+          "translate": "Ее оштрафовали за ее проступок."
+        }
+      ],
+"link": "https://wooordhunt.ru/misdemeanour"
+    },
+
+{
+      "source": "felony",
+      "translate": "тяжкое преступление",
+      "tags": ["november", "common"],
+      "examples": [
+        {
+            "sentence": "He was charged with a felony.",
+            "translate": "Его обвинили в совершении тяжкого преступления."
+        }, {
+          "sentence": "Felony convictions can have serious consequences.",
+          "translate": "Приговоры по делам о тяжких преступлениях могут иметь серьезные последствия."
+        }
+      ],
+      "link": "https://wooordhunt.ru/felony"
+    },
+
+{
+      "source": "treason",
+      "translate": "измена, предательство",
+      "tags": ["november", "common"],
+      "examples": [
+        {
+            "sentence": "He was accused of treason.",
+            "translate": "Его обвинили в измене."
+        }, {
+          "sentence": "Treason is a serious crime.",
+          "translate": "Измена - это серьезное преступление."
+        }
+      ],
+      "link": "https://wooordhunt.ru/treason"
+    },
   {
       "source": "heritage",
       "translate": "наследие",
