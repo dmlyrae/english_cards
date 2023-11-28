@@ -1,4 +1,304 @@
 [
+  {
+  "source": "birthday",
+      "translate": "день рождения",
+      "tags": ["birthday", "common"],
+      "examples": [
+       { 
+            "sentence": "Today is my birthday!",
+            "translate": "Сегодня мой день рождения!"
+  }, {
+          "sentence": "I'm throwing a big birthday party next week.",
+          "translate": "Я устраиваю большой день рождения на следующей неделе."
+  } 
+      ],
+      "link": "https://wooordhunt.ru/birthday"
+    },{
+
+
+      "source": "celebrate",
+      "translate": "праздновать",
+      "tags": ["birthday", "common"],
+      "examples": [
+        
+       { 
+            "sentence": "Let's celebrate your birthday with a cake!",
+            "translate": "Давайте отметим ваш день рождения тортом!"
+  }, {
+          "sentence": "We always celebrate birthdays with a big family dinner.",
+          "translate": "Мы всегда празднуем дни рождения большим семейным ужином."
+  } 
+      ],
+      "link": "https://wooordhunt.ru/celebrate"
+    },{
+
+
+      "source": "gift",
+      "translate": "подарок",
+      "tags": ["birthday", "common"],
+      "examples": [
+        
+       { 
+            "sentence": "I got a really nice gift for my birthday.",
+            "translate": "Я получил очень хороший подарок на свой день рождения."
+  }, {
+          "sentence": "What kind of gift should I get for her birthday?",
+          "translate": "Какой подарок я должен купить на ее день рождения?"
+        
+  } 
+      ],
+      "link": "https://wooordhunt.ru/gift"
+    },{
+
+      "source": "age",
+      "translate": "возраст",
+      "tags": ["birthday", "common"],
+      "examples": [
+        
+       { 
+            "sentence": "I'm getting up there in age.",
+            "translate": "Я старею."
+  }, {
+          "sentence": "What age do you have to be to vote?",
+          "translate": "Какого возраста нужно достичь, чтобы иметь право голоса?"
+        
+  } 
+      ],
+      "link": "https://wooordhunt.ru/age"
+    },{
+
+      "source": "party",
+      "translate": "вечеринка",
+      "tags": ["birthday", "common"],
+      "examples": [
+        
+       { 
+            "sentence": "Let's have a party for your birthday!",
+            "translate": "Давай устроим вечеринку на твой день рождения!"
+  }, {
+          "sentence": "I love going to birthday parties.",
+          "translate": "Я люблю ходить на детские дни рождения."
+        
+  } 
+      ],
+      "link": "https://wooordhunt.ru/party"
+    },{
+
+      "source": "cake",
+      "translate": "торт",
+      "tags": ["birthday", "common"],
+      "examples": [
+        
+       { 
+            "sentence": "I baked a cake for your birthday.",
+            "translate": "Я испекла торт на твой день рождения."
+  }, {
+          "sentence": "What kind of cake do you want for your birthday?",
+          "translate": "Какой торт ты хочешь на свой день рождения?"
+        
+  } 
+      ],
+      "link": "https://wooordhunt.ru/cake"
+    },{
+      "source": "surprise",
+      "translate": "сюрприз",
+      "tags": ["birthday", "common"],
+      "examples": [
+       { 
+            "sentence": "I have a surprise for your birthday!",
+            "translate": "У меня есть сюрприз на твой день рождения!"
+  }, {
+          "sentence": "The party was full of surprises.",
+          "translate": "Вечеринка была полна сюрпризов."
+  } 
+      ],
+      "link": "https://wooordhunt.ru/surprise"
+    },{
+      "source": "wish",
+      "translate": "желать, пожелание",
+      "tags": ["birthday", "common"],
+      "examples": [
+        
+       { 
+            "sentence": "I wish you a happy birthday!",
+            "translate": "Я желаю тебе счастливого дня рождения!"
+  }, {
+          "sentence": "What's your wish for your birthday?",
+          "translate": "Какое у тебя желание на день рождения?"
+        
+  } 
+      ],
+      "link": "https://wooordhunt.ru/wish"
+    },{
+
+      "source": "balloon",
+      "translate": "воздушный шар",
+      "tags": ["birthday", "common"],
+      "examples": [
+        
+       { 
+            "sentence": "We decorated the room with balloons for the birthday party.",
+            "translate": "Мы украсили комнату воздушными шарами на день рождения."
+  }, {
+"sentence": "I love getting a balloon on my birthday.",
+          "translate": "Я люблю получать воздушный шарик на свой день рождения."
+  } 
+      ],
+      "link": "https://wooordhunt.ru/balloon"
+  }, {
+    "source": "entry",
+      "translate": "вход",
+      "tags": ["building", "common"],
+      "examples": [
+        {
+            "sentence": "Please use the side entry.",
+            "translate": "Пожалуйста, используйте боковой вход."
+    },{
+          "sentence": "The entry to the museum is free.",
+          "translate": "Вход в музей бесплатный."
+    }   
+      ],
+      "link": "https://wooordhunt.ru/entry"
+    },{
+
+      "source": "gentry",
+      "translate": "дворянство",
+      "tags": ["history", "rare"],
+      "examples": [
+    {    
+            "sentence": "The gentry of England were once the ruling class.",
+            "translate": "Дворянство Англии когда-то было правящим классом."
+    },{
+          "sentence": "The gentry enjoyed many privileges.",
+          "translate": "Дворянство наслаждалось многими привилегиями."
+    }   
+      ],
+      "link": "https://wooordhunt.ru/gentry"
+    },{
+
+      "source": "entrance",
+      "translate": "вход",
+      "tags": ["building", "common"],
+      "examples": [
+    {    
+            "sentence": "The entrance to the building is on the left.",
+            "translate": "Вход в здание находится слева."
+    },{
+          "sentence": "I couldn't find the entrance to the park.",
+          "translate": "Я не мог найти вход в парк."
+    }   
+      ],
+      "link": "https://wooordhunt.ru/entrance"
+    },{
+
+
+      "source": "surge",
+      "translate": "волна, всплеск",
+      "tags": ["nature", "common"],
+      "examples": [
+    {    
+            "sentence": "The surge of the ocean was breathtaking.",
+            "translate": "Волна океана была захватывающей."
+    },{
+          "sentence": "The stock market experienced a surge in trading.",
+          "translate": "Фондовый рынок испытал всплеск торговли."
+    }    
+      ],
+      "link": "https://wooordhunt.ru/surge"
+    },{
+
+      "source": "believe",
+      "translate": "верить",
+      "tags": ["emotions", "common"],
+      "examples": [
+        {
+            "sentence": "I believe in you.",
+            "translate": "Я верю в тебя."
+    },{
+          "sentence": "Do you believe in ghosts?",
+          "translate": "Ты веришь в привидения?"
+    } 
+      ],
+      "link": "https://wooordhunt.ru/believe"
+    },{
+
+      "source": "whatever",
+      "translate": "что бы ни было",
+      "tags": ["conversation", "common"],
+      "examples": [
+        {
+            "sentence": "Whatever happens, I'll always be there for you.",
+            "translate": "Что бы ни случилось, я всегда буду рядом с тобой."
+    },{
+          "sentence": "Whatever you do, don't give up.",
+          "translate": "Что бы ты ни делал, не сдавайся."
+       } 
+      ],
+      "link": "https://wooordhunt.ru/whatever"
+    },{
+
+      "source": "sense",
+      "translate": "чувство, смысл",
+      "tags": ["emotions", "common"],
+      "examples": [
+        {
+            "sentence": "I have a sense of foreboding.",
+            "translate": "У меня есть чувство предчувствия."
+    },{
+          "sentence": "What's the sense of all this?",
+          "translate": "В чем смысл всего этого?"
+    } 
+      ],
+      "link": "https://wooordhunt.ru/sense"
+    },{
+
+      "source": "couple",
+      "translate": "пара, несколько",
+      "tags": ["quantity", "common"],
+      "examples": [
+        {
+        
+            "sentence": "I need to buy a couple of things at the store.",
+            "translate": "Мне нужно купить пару вещей в магазине."
+    },{
+          "sentence": "We've been together for a couple of years.",
+          "translate": "Мы вместе уже несколько лет."
+    }
+        
+      ],
+      "link": "https://wooordhunt.ru/couple"
+    }, {
+      "source": "suppose",
+      "translate": "предполагать, полагать",
+      "tags": ["thinking", "common"],
+      "examples": [
+        { 
+            "sentence": "I suppose you're right.",
+            "translate": "Полагаю, ты прав."
+      } , {
+          "sentence": "What do you suppose happened?",
+          "translate": "Что, по-твоему, произошло?"
+      }
+      ],
+      "link": "https://wooordhunt.ru/suppose"
+    }, {
+      "source": "involve",
+
+"translate": "вовлекать, включать",
+      "tags": ["action", "common"],
+      "examples": [
+        {  
+            "sentence": "The project involves a lot of people.",
+            "translate": "Проект вовлекает много людей."
+        }
+        , 
+        {  
+          "sentence": "This job involves a lot of hard work.",
+          "translate": "Эта работа включает в себя много труда."
+        }
+      ],
+      "link": "https://wooordhunt.ru/involve"
+    }, 
 {
       "source": "crime",
       "translate": "преступление",
