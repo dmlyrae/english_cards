@@ -1,6 +1,6 @@
 [
     {
-  "source": "suspiction",
+  "source": "suspicion",
       "translate": "подозрительность",
       "tags": ["birthday", "common"],
       "examples": [
@@ -12,7 +12,7 @@
           "translate": "У меня есть подозрения по поводу его мотивов"
   } 
       ],
-      "link": "https://wooordhunt.ru/suspiction"
+      "link": "https://wooordhunt.ru/suspicion"
     }, {
   "source": "doubt",
     "translate": "сомнение",
