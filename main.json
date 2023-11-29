@@ -1,5 +1,78 @@
 [
-  {
+    {
+  "source": "suspiction",
+      "translate": "подозрительность",
+      "tags": ["birthday", "common"],
+      "examples": [
+       { 
+            "sentence": "Something suspicious is going on",
+            "translate": "Что-то подозрительное происходит"
+  }, {
+          "sentence": "I have suspicions about his motives",
+          "translate": "У меня есть подозрения по поводу его мотивов"
+  } 
+      ],
+      "link": "https://wooordhunt.ru/suspiction"
+    }, {
+  "source": "doubt",
+    "translate": "сомнение",
+    "tags": ["common"],
+    "examples": [
+    {  
+        "sentence": "I doubt that he will come to the party",
+        "translate": "Я сомневаюсь, что он придет на вечеринку"
+    }, {
+        "sentence": "There is no doubt that she is talented",
+        "translate": "Нет сомнений в том, что она талантлива"
+    } 
+    ],
+    "link": "https://wooordhunt.ru/doubt"
+    }, {
+
+  "source": "trial",
+  "translate": "испытание",
+  "tags": ["common"],
+  "examples": [
+    {  
+      "sentence": "The new product is undergoing trials before it can be released",
+      "translate": "Новый продукт проходит испытания перед тем, как его можно будет выпустить"
+    }, {
+      "sentence": "She was put on trial for the crime she committed",
+      "translate": "Ее поставили под суд за преступление, которое она совершила"
+    } 
+  ],
+  "link": "https://wooordhunt.ru/trial"
+    }, {
+
+  "source": "rather",
+  "translate": "скорее",
+  "tags": ["common"],
+  "examples": [
+    {  
+      "sentence": "I would rather stay at home than go out tonight",
+      "translate": "Я скорее останусь дома, чем пойду гулять сегодня вечером"
+    }, {
+      "sentence": "It's rather cold outside today",
+      "translate": "Сегодня на улице скорее холодно"
+    } 
+  ],
+  "link": "https://wooordhunt.ru/rather"
+    }, {
+
+  "source": "often",
+  "translate": "часто",
+  "tags": ["common"],
+  "examples": [
+    {  
+      "sentence": "He often goes for a run in the morning",
+      "translate": "Он часто бегает по утрам"
+    }, {
+      "sentence": "I often forget my keys at home",
+      "translate": "Я часто забываю свои ключи дома"
+    } 
+  ],
+  "link": "https://wooordhunt.ru/often"
+    }, {
   "source": "birthday",
       "translate": "день рождения",
       "tags": ["birthday", "common"],
