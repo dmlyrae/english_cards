@@ -1,5 +1,99 @@
 [
-    {
+  {
+"source": "caution",
+  "translate": "осторожность",
+  "tags": ["safety", "common"],
+  "examples": [
+  {  
+      "sentence": "Throw caution to the wind",
+      "translate": "Отбросить всякую осторожность"
+  },{
+    
+      "sentence": "I advise you to proceed with caution in this matter.",
+      "translate": "Я советую вам действовать осторожно в этом вопросе."
+  }  
+  ],
+  "link": "https://wooordhunt.ru/caution"
+  },{
+
+  "source": "throw",
+  "translate": "бросать",
+  "tags": ["sports", "common"],
+  "examples": [
+    
+  {  
+      "sentence": "He can throw a ball really far.",
+      "translate": "Он может бросить мяч очень далеко."
+  },{
+    
+      "sentence": "I'm throwing caution. What's it gonna be?",
+      "translate": "Я отбрасываю осторожность. К чему это приведёт (что будет)?"
+  }  
+  ],
+  "link": "https://wooordhunt.ru/throw"
+  },{
+  "source": "remain",
+  "translate": "оставаться",
+  "tags": ["time", "common"],
+  "examples": [
+  {  
+      "sentence": "Only ten minutes remain until the end of the game.",
+      "translate": "Осталось всего десять минут до конца игры."
+  },{
+    
+      "sentence": "Despite the difficult circumstances, she remained optimistic.",
+      "translate": "Несмотря на сложные обстоятельства, она оставалась оптимисткой."
+  }  
+  ],
+  "link": "https://wooordhunt.ru/remain"
+  },{
+
+  "source": "threshold",
+  "translate": "порог",
+  "tags": ["home", "common"],
+  "examples": [
+  {  
+      "sentence": "The cat sat on the threshold, waiting to be let in.",
+      "translate": "Кошка сидела на пороге, ждущая, когда ее впустят."
+  },{
+      "sentence": "We're on the threshold of a new era.",
+      "translate": "Мы на пороге новой эры."
+  }  
+  ],
+  "link": "https://wooordhunt.ru/threshold"
+  },{
+
+  "source": "relative",
+  "translate": "родственник",
+  "tags": ["family", "common"],
+  "examples": [
+  {  
+      "sentence": "My relatives are coming to visit us this weekend.",
+      "translate": "Мои родственники приезжают к нам в гости на выходные."
+  },{
+    
+      "sentence": "He's a distant relative of mine.",
+      "translate": "Он дальний родственник мой."
+  }  
+  ],
+  "link": "https://wooordhunt.ru/relative"
+  },{
+
+  "source": "observe",
+  "translate": "наблюдать",
+  "tags": ["science", "common"],
+  "examples": [
+  {  
+      "sentence": "Scientists have been observing this species for years.",
+      "translate": "Ученые наблюдают за этим видом уже много лет."
+  },{
+    
+      "sentence": "It's important to observe safety regulations in the laboratory.",
+      "translate": "В лаборатории важно соблюдать правила безопасности."
+  }  
+  ],
+  "link": "https://wooordhunt.ru/observe"
+  }, {
   "source": "suspicion",
       "translate": "подозрительность",
       "tags": ["birthday", "common"],
@@ -1129,4 +1223,3 @@
     ]
     }
 ]
-
