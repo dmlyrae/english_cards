@@ -1,5 +1,99 @@
 [
   {
+  "source": "consequence",
+  "translate": "последствие",
+  "tags": ["common", "december"],
+  "examples": [
+    {
+      "sentence": "He didn't consider the consequences of his actions.",
+      "translate": "Он не подумал о последствиях своих действий."
+    },
+    {
+      "sentence": "The consequence of breaking the law is a fine or imprisonment.",
+      "translate": "Последствием нарушения закона является штраф или тюремное заключение."
+    }
+  ],
+  "link": "https://wooordhunt.ru/consequence"
+},
+{
+  "source": "might",
+  "translate": "мог бы, могущий",
+  "tags": ["common", "december"],
+  "examples": [
+    {
+      "sentence": "I might come to the party if I finish my work on time.",
+      "translate": "Я мог бы прийти на вечеринку, если закончу работу вовремя."
+    },
+    {
+      "sentence": "You might want to try this restaurant, the food is really good.",
+      "translate": "Тебе может понравиться этот ресторан, еда здесь очень вкусная."
+    }
+  ],
+  "link": "https://wooordhunt.ru/might"
+},
+{
+  "source": "whose",
+  "translate": "чей",
+  "tags": ["common", "december"],
+  "examples": [
+    {
+      "sentence": "Whose car is parked in front of the house?",
+      "translate": "Чья машина припаркована перед домом?"
+    },
+    {
+      "sentence": "I don't know whose idea it was to have a meeting at 6am.",
+      "translate": "Я не знаю, чья идея была провести встречу в 6 утра."
+    }
+  ],
+  "link": "https://wooordhunt.ru/whose"
+},
+{
+  "source": "worry",
+  "translate": "беспокоиться",
+  "tags": ["common"],
+  "examples": [
+    {
+      "sentence": "Don't worry, everything will be okay.",
+      "translate": "Не беспокойся, все будет хорошо."
+    },
+    {
+      "sentence": "I'm worried about my friend, she hasn't been answering my calls.",
+      "translate": "Я беспокоюсь о своей подруге, она не отвечает на мои звонки."
+    }
+  ],
+  "link": "https://wooordhunt.ru/worry"
+},
+{
+  "source": "possible",
+  "translate": "возможный",
+  "tags": ["common", "december"],
+  "examples": [
+    {
+      "sentence": "It's possible that we'll finish the project early.",
+      "translate": "Возможно, мы закончим проект раньше срока."
+    },
+    {
+      "sentence": "Is it possible to change my flight to a later date?",
+      "translate": "Возможно ли изменить дату моего рейса на более позднюю?"
+    }
+  ],
+  "link": "https://wooordhunt.ru/possible"
+},
+{
+  "source": "mention",
+  "translate": "упоминать",
+  "tags": ["common", "december"],
+  "examples": [
+    {
+      "sentence": "I didn't mention the party to him because I knew he wouldn't be interested.",
+      "translate": "Я не упомянул ему о вечеринке, потому что знал, что ему это не интересно."
+    }, {
+      "sentence": "She mentioned that she had a doctor's appointment later that day.",
+      "translate": "Она упомянула, что у нее есть прием у врача позже в тот день."
+    }
+  ],
+  "link": "https://wooordhunt.ru/mention"
+}, {
 "source": "caution",
   "translate": "осторожность",
   "tags": ["safety", "common"],
@@ -14,7 +108,8 @@
   }  
   ],
   "link": "https://wooordhunt.ru/caution"
-  },{
+  },
+  {
 
   "source": "throw",
   "translate": "бросать",
