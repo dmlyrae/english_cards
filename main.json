@@ -1,5 +1,145 @@
 [
-  {
+{
+  "source": "knowledge",
+  "translate": "знание",
+  "tags": ["education", "wisdom"],
+  "examples": [
+   { 
+      "sentence": "Knowledge is power",
+      "translate": "Знание - сила"
+}, {
+    
+      "sentence": "I have gained a lot of knowledge from reading books.",
+      "translate": "Я получил много знаний, читая книги."
+} 
+  ]
+}, {
+"source": "fulfilled",
+  "translate": "удовлетворенный",
+  "tags": ["happiness", "satisfaction"],
+  "examples": [
+   { 
+      "sentence": "I feel fulfilled in my career",
+      "translate": "Я чувствую удовлетворение от своей карьеры"
+}, {
+      "sentence": "Volunteering makes me feel fulfilled",
+      "translate": "Волонтерство дает мне чувство удовлетворения"
+} 
+  ],
+  "link": "https://wooordhunt.ru/fulfilled"
+}, {
+"source": "understand",
+  "translate": "понимать",
+  "tags": ["comprehension", "communication"],
+  "examples": [
+   { 
+      "sentence": "I don't understand this concept",
+      "translate": "Я не понимаю эту концепцию"
+}, {
+      "sentence": "We need to understand each other to work effectively as a team",
+      "translate": "Нам нужно понимать друг друга, чтобы эффективно работать в команде"
+} 
+  ],
+  "link": "https://wooordhunt.ru/understand"
+}, {
+"source": "tranquility",
+  "translate": "спокойствие",
+  "tags": ["peace", "meditation"],
+  "examples": [
+   { 
+      "sentence": "I find tranquility in nature",
+      "translate": "Я нахожу спокойствие в природе"
+}, {
+      "sentence": "Meditation helps me achieve tranquility",
+      "translate": "Медитация помогает мне достичь спокойствия"
+} 
+  ],
+  "link": "https://wooordhunt.ru/tranquility"
+}, {
+"source": "merging",
+  "translate": "слияние",
+  "tags": ["unity", "integration"],
+  "examples": [
+   { 
+      "sentence": "The merging of two companies resulted in a stronger business",
+      "translate": "Слияние двух компаний привело к более сильному бизнесу"
+}, {
+      "sentence": "The merging of different cultures can lead to a richer society",
+      "translate": "Слияние различных культур может привести к более богатому обществу"
+} 
+  ],
+  "link": "https://wooordhunt.ru/merging"
+}, {
+"source": "contemplate",
+  "translate": "созерцать",
+  "tags": ["reflection", "mindfulness"],
+  "examples": [
+   { 
+      "sentence": "I like to contemplate the stars at night",
+      "translate": "Мне нравится созерцать звезды ночью"
+}, {
+      "sentence": "Contemplating my mistakes helps me learn from them",
+      "translate": "Созерцание своих ошибок помогает мне учиться на них"
+} 
+  ],
+  "link": "https://wooordhunt.ru/contemplate"
+}, {
+"source": "similarity",
+  "translate": "сходство",
+  "tags": ["comparison", "analogies"],
+  "examples": [
+   { 
+      "sentence": "There is a similarity between these two paintings",
+      "translate": "Есть сходство между этими двумя картинами"
+}, {
+      "sentence": "The similarity between a computer and a human brain is often discussed",
+      "translate": "Сходство между компьютером и человеческим мозгом часто обсуждается"
+} 
+  ],
+  "link": "https://wooordhunt.ru/similarity"
+}, {
+"source": "unity",
+  "translate": "единство",
+  "tags": ["harmony", "cooperation"],
+  "examples": [
+   { 
+      "sentence": "The team worked in unity to achieve their goal",
+      "translate": "Команда работала в единстве, чтобы достичь своей цели"
+}, {
+      "sentence": "The concept of unity is important in many religions",
+      "translate": "Концепция единства важна во многих религиях"
+} 
+  ],
+  "link": "https://wooordhunt.ru/unity"
+}, {
+"source": "being",
+  "translate": "существо",
+  "tags": ["existence", "philosophy"],
+  "examples": [
+   { 
+      "sentence": "Human beings are capable of great things",
+      "translate": "Человеческие существа способны на великие вещи"
+}, {
+      "sentence": "The nature of being is a complex philosophical question",
+      "translate": "Природа бытия - это сложный философский вопрос"
+} 
+  ],
+  "link": "https://wooordhunt.ru/being"
+}, {
+"source": "wherever",
+  "translate": "где бы ни",
+  "tags": ["location", "travel"],
+  "examples": [
+   { 
+      "sentence": "I will follow you wherever you go",
+      "translate": "Я последую за тобой, где бы ты ни пошел"
+}, {
+      "sentence": "Wherever I travel, I always try the local cuisine",
+      "translate": "Где бы я ни путешествовал, я всегда пробую местную кухню"
+} 
+  ],
+  "link": "https://wooordhunt.ru/wherever"
+}, {
   "source": "consequence",
   "translate": "последствие",
   "tags": ["common", "december"],
